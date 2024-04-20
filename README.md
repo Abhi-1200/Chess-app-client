@@ -1,8 +1,10 @@
-# React + Vite
+# Chess App Using Graphql
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repo contains the client side of Chess App.
 
-Currently, two official plugins are available:
+Setup : 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Clone the repo](https://github.com/Abhi-1200/Chess-app-client.git) using git clone https://github.com/Abhi-1200/Chess-app-client.git
+- cd cApp
+- Run "npm i --no-save"
+- Run "npm run dev" this creates the vite client.
